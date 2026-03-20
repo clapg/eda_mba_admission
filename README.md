@@ -30,7 +30,6 @@ Identificar quais variáveis — acadêmicas, profissionais e demográficas — 
 | Correlações | Pearson e Spearman entre variáveis numéricas |
 | Síntese | Principais achados e considerações finais |
 
----
 
 ## Principais achados
 
@@ -65,8 +64,5 @@ eda-mba-admission/
 - matplotlib, seaborn, plotly
 - scipy.stats, statsmodels
 - missingno, summarytools
-
-
-```
 
 
