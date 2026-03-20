@@ -72,20 +72,7 @@ eda-mba-admission/
 - scipy.stats, statsmodels
 - missingno, summarytools
 
----
 
-## Como executar
-
-```bash
-# Clone o repositório
-git clone https://github.com/clapg/eda-mba-admission.git
-cd eda-mba-admission
-
-# Instale as dependências
-pip install pandas numpy matplotlib seaborn plotly scipy statsmodels missingno summarytools
-
-# Execute o notebook
-jupyter notebook mba_admission.ipynb
 ```
 
 
