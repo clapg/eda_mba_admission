@@ -49,9 +49,8 @@ Identificar quais variáveis — acadêmicas, profissionais e demográficas — 
 
 ```
 eda-mba-admission/
-├── mba_admission.ipynb    # Notebook principal
-├── mba.csv                # Dataset (download no Kaggle)
-└── README.md
+- mba_admission.ipynb 
+- README.md
 ```
 
 ---
