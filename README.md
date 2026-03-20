@@ -2,13 +2,11 @@
 
 Análise exploratória de dados aplicada ao processo seletivo de um programa de MBA, com foco na identificação dos fatores associados à admissão e na investigação de equidade entre perfis de candidatos.
 
----
 
 ## Objetivo
 
 Identificar quais variáveis — acadêmicas, profissionais e demográficas — estão associadas à decisão de admissão, e verificar se há disparidades estatisticamente significativas entre grupos de candidatos.
 
----
 
 ## Perguntas de negócio
 
@@ -18,7 +16,6 @@ Identificar quais variáveis — acadêmicas, profissionais e demográficas — 
 4. A experiência profissional influencia a admissão de forma diferente para homens e mulheres?
 5. Existem evidências de disparidade no processo seletivo?
 
----
 
 ## Estrutura da análise
 
@@ -43,7 +40,6 @@ Identificar quais variáveis — acadêmicas, profissionais e demográficas — 
 - Experiência profissional **não diferencia** admitidos de não admitidos para nenhum dos gêneros
 - ~30% dos registros da variável `raca` são nulos, limitando a análise de equidade racial
 
----
 
 ## Arquivos
 
@@ -53,7 +49,6 @@ eda-mba-admission/
 - README.md
 ```
 
----
 
 ## Dataset
 
@@ -62,7 +57,6 @@ eda-mba-admission/
 - **Registros:** 6.194 candidatos × 10 variáveis
 - **Variável-alvo:** `admissao` (admitir / lista de espera)
 
----
 
 ## Tecnologias
 
